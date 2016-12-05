@@ -4,7 +4,5 @@ Parses an Excel (xlsx) spreadsheet and creates a text list with urgent tasks
 sent by email.
 
 Excel format should look like this:
---------------------------------------------------------
 | Task | Status | Due | Owner | Effort | Pct | Comment |
---------------------------------------------------------
 | ...
